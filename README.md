@@ -28,5 +28,5 @@ To start a service, you have own a own WordPress site, and use 2 plugins:
 2.	BASIC Auth plugin, git clone https://github.com/WP-API/Basic-Auth basicAuth, and active. 
 
 ### tinywebdb-base64 web service
-WP REST API provides OAuth 1.0a and Basic Auth algorithm. Currently it is no way to use OAuth 1.0a on App Inventor, so I use Basic Auth on this app. Because, I create a tinywebdb-base64 program, which use App Inventor Tinywebdb feature to get value = base64_encode (tag). You need install tinywebdb-base64 program on your server and set URL to program. You can feel free to use my tinywebdb-base64 web service.
+WP REST API provides OAuth 1.0a and Basic Auth algorithm. Currently it is no way to use OAuth 1.0a on App Inventor, so I use Basic Auth on this app. Because, I create a [tinywebdb-base64](https://edu2web.github.io/tinywebdb-base64/) program, which use App Inventor Tinywebdb feature to get value = base64_encode (tag). You need install tinywebdb-base64 program on your server and set URL to program. You can feel free to use my tinywebdb-base64 web service.
 
