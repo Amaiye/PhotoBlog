@@ -20,11 +20,13 @@ A screen shot show a post on WordPress REST API powered Blog site.
 As shown in this screenshot, the app exceeds the project’s minimum technical requirements. It contains 2 global variables, 4 list data, 2 procedures or functions, and 2 if/else structure.
 
 ##   Appendix.
+
 ### WP REST API web service
 The WP REST API is a WordPress plugin that intends to be eventually integrated into WordPress’ core as another (big) step towards transforming WordPress from a blogging platform/CMS into a fully-fledged application framework.
 To start a service, you have own a own WordPress site, and use 2 plugins:
 1.	WP REST API plugin, install and active (schedule uptake to core WP 4.4 and WP 4.5)
 2.	BASIC Auth plugin, git clone https://github.com/WP-API/Basic-Auth basicAuth, and active. 
+
 ### tinywebdb-base64 web service
 WP REST API provides OAuth 1.0a and Basic Auth algorithm. Currently it is no way to use OAuth 1.0a on App Inventor, so I use Basic Auth on this app. Because, I create a tinywebdb-base64 program, which use App Inventor Tinywebdb feature to get value = base64_encode (tag). You need install tinywebdb-base64 program on your server and set URL to program. You can feel free to use my tinywebdb-base64 web service.
 
