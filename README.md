@@ -4,16 +4,16 @@
 Easy Photo Blog publisher
 
 ## Elevator Pitch.
-This cloud app pickup a photo from device’s image gallay, save the photo on self hosted WordPress site as a media file，and create a post with the media file attachement.
+This cloud app pickup a photo from device’s image galley, save the photo on self hosted WordPress site as a media file，and create a post with the media file attachment.
 
 ## Description.
 The Easy Photo Blog publisher is a mobile app that make easy to publish a post with photo to self hosted WordPress site. To make a post, user could follow steps:
 
 1. Type the post title
-1. Pickup a photo from device’s image gallay.
-1. Press “Post to madia” button to save the photo on WordPress site as a media file
+1. Pickup a photo from device’s image galley.
+1. Press “Post to media” button to save the photo on WordPress site as a media file
 1. Type the post main content
-1. Press “Post Blog” to create a post with the media file attachement.
+1. Press “Post Blog” to create a post with the media file attachment.
 
 the app is easy way to make a photo blog to own WordPress site.
 
