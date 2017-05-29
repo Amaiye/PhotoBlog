@@ -26,16 +26,16 @@
 
 ![](./apkdownload-1.png)
 
-a screen shot show a post on WordPress REST API powered Blog site.
+WordPress REST API対応WordPressサイトに投稿した内容の画面コピー
 
 
 ## Technical Description.
-As shown in this screenshot, the app exceeds the project’s minimum technical requirements. It contains 2 global variables, 4 list data, 2 procedures or functions, and 2 if/else structure.
+下記の画面コピーにあるように、このアプリはプロジェクトの最低限仕様を満たした。中に 2 個グローバル変数（global variables）, 4 個リストデータ（list data）, 2個関数（procedures or functions）, そして 2 個if/else 構造（structure）が含まれた。
 
 ![](./blocksview.png)
 
 ## Appendix.
 
-The WP REST API is a WordPress plugin that intends to be eventually integrated into WordPress’ core as another (big) step towards transforming WordPress from a blogging platform/CMS into a fully fledged application framework.
+WP REST APIはWordPressのプラグイン、 将来は WordPressコアに組み入れ、WordPressを ブログプラットフォーム/CMS から、本格的なアプリケーション・フレームワークへ変身するために一歩である。
 
-WP REST API provide OAuth 1.0a and Basic Auth algorithm. it is no way to use OAuth 1.0a on App Inventor, so I use Basic Auth on this app. Basic Auth use base64 encode and not way to do on App Inventor, so on this app, just use a global variable to store a text which already encoded auth text.
+WP REST API は OAuth 1.0a とBasic Auth 認証方法サポートする。 しかしApp InventorはOAuth 1.0a対応できないため, Basic Authを利用した。Basic Auth はbase64 encodeを利用するが、それもApp Inventorだけでは計算できない, だからこのアプリは、グローバル変数（global variable）に 予めbase64 encode計算した値を入れる。
