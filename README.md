@@ -1,5 +1,8 @@
 # Photoblog
 
+Links: [Photoblog](./README.md), [Photoblog(JP)](./README-Jp.md)
+       [Photoblog_V2](./README_V2.md), [Photoblog_V2(JP)](./README-V2jp.md)
+
 ## Project Title.
 Easy Photo Blog publisher
 
