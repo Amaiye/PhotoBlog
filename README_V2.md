@@ -14,15 +14,14 @@ The Easy Photo Blog publisher is a mobile app that make easy to publish a post w
 The app’s social benefit comes from its ability to make a quick post, and improve later, give a motivation to help user more publish. Also this is a good example to use [WordPress REST API](http://wp-api.org/).
 
 ![](./PhotoBlog2app.png)
+![](./PhotoBlog2web.png)
 
 A screen shot show a post on WordPress REST API powered Blog site with a Photoblog post.
-
-![](./PhotoBlog2web.png)
 
 ## Download and Test.
 Because this is an app using WordPress REST API, the only way to fully test its functionality would require using the WordPress REST API powered Blog site. You can feel free to use my test site. To download the app, scan the QR code to the left with the MIT AI2 Companion app or some other Scanner or [click on this download link](https://sites.google.com/site/chen420/my-apk/PhotoBlog%20%281%29.apk?attredirects=0&d=1).
 
-![](./PhotoBlog2download.png)
+<img src="./PhotoBlog2download.png" width="100">
 
 ## Technical Description.
 As shown in this screenshot, the app exceeds the project’s minimum technical requirements. It contains 2 global variables, 4 list data, 2 procedures or functions, and 2 if/else structure.

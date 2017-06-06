@@ -1,4 +1,4 @@
-# Enhanced photo blog publisher
+# 簡易Easy Photo Blog 投稿ツール強化版 (Enhanced photo blog publisher)
 
 ## Project Title.
 簡易Easy Photo Blog 投稿ツール強化版

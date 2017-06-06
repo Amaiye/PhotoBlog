@@ -1,4 +1,4 @@
-# Photoblog
+# 簡易Easy Photo Blog 投稿ツール　(Photoblog)
 
 ## Project Title.
 簡易Easy Photo Blog 投稿ツール
