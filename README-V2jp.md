@@ -1,7 +1,7 @@
-# 簡易Easy Photo Blog 投稿ツール強化版 (Enhanced photo blog publisher)
+# 簡易Easy Photo Blog 投稿ツール強化版
 
 ## Project Title.
-簡易Easy Photo Blog 投稿ツール強化版
+簡易Easy Photo Blog 投稿ツール強化版 (Enhanced photo blog publisher)
 
 ## Elevator Pitch.
 “Enhanced photo blog publisher” はクラウド対応、簡単に写真付き投稿するためのアプリ, 投稿ビューア、カスタム認証、base64 encode 実装など、強化されたバージョンである。
