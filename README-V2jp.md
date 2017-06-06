@@ -30,7 +30,6 @@ WordPress REST API対応WordPressサイトに投稿した内容の画面コピ�
 
 ##   Appendix.
 
-### WP REST API web service
 WP REST APIはWordPressのプラグイン、 将来は WordPressコアに組み入れ、WordPressを ブログプラットフォーム/CMS から、本格的なアプリケーション・フレームワークへ変身するために一歩である。サービスを運用するために、自前の WordPress サイトに次の２つプラグインを入れてください:
 1.	WP REST API plugin, インストールと有効化 (WP 4.4 と WP 4.5でコアに取り入れる予定)
 2.	BASIC Auth plugin, git clone https://github.com/WP-API/Basic-Auth basicAuth, して有効化.

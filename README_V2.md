@@ -30,7 +30,6 @@ As shown in this screenshot, the app exceeds the project’s minimum technical r
 
 ##   Appendix.
 
-### WP REST API web service
 The WP REST API is a WordPress plugin that intends to be eventually integrated into WordPress’ core as another (big) step towards transforming WordPress from a blogging platform/CMS into a fully-fledged application framework.
 To start a service, you have own a own WordPress site, and use 2 plugins:
 1.	WP REST API plugin, install and active (schedule uptake to core WP 4.4 and WP 4.5)
