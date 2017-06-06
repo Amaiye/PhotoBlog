@@ -34,6 +34,3 @@ WordPress REST API対応WordPressサイトに投稿した内容の画面コピ�
 WP REST APIはWordPressのプラグイン、 将来は WordPressコアに組み入れ、WordPressを ブログプラットフォーム/CMS から、本格的なアプリケーション・フレームワークへ変身するために一歩である。サービスを運用するために、自前の WordPress サイトに次の２つプラグインを入れてください:
 1.	WP REST API plugin, インストールと有効化 (WP 4.4 と WP 4.5でコアに取り入れる予定)
 2.	BASIC Auth plugin, git clone https://github.com/WP-API/Basic-Auth basicAuth, して有効化.
-
-### tinywebdb-base64 web service
-WP REST API は OAuth 1.0a とBasic Auth 認証方法サポートする。 しかしApp InventorはOAuth 1.0a対応できないため, Basic Authを利用した。Basic Auth はbase64 encodeを利用する. しかしApp Inventorはその機能がないため、 [tinywebdb-base64](https://edu2web.github.io/tinywebdb-base64/) プログラムを作った, このプログラムは App Inventor のTinywebdb 機能を利用して、 value = base64_encode (tag)でbase64 encodeした値を利用する。 tinywebdb-base64 プログラムをサーバにインストールし、 そのサーバの URL をプログラムにセットする必要がある。私のtinywebdb-base64 web serviceを自由に使ってもいい.
